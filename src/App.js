@@ -12,6 +12,9 @@ function App() {
       <div className="App">
         <nav className="navbar navbar-expand-lg navbar-light fixed-top">
           <div className="container">
+            <div id="company_logo">
+                <img src={'/vishnu_College_logo.png'} alt="logo" />
+            </div>
             <Link className="navbar-brand" to={'/sign-in'}>
               Shri Vishnu Engineering College For Women
             </Link>
