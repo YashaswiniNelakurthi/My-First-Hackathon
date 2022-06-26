@@ -30,8 +30,12 @@ export default class SignUp extends Component {
                     <label>Club name</label>
                     <select  className="form-control">
                         <option value={0}>--Select--</option>
-                        <option value={1}>Photographic Club </option>
-                        <option value={2}>Sahaya Club</option>                       
+                        <option value={1}>AAA Club </option>
+                        <option value={2}>MECOW Club</option>  
+                        <option value={3}>Photographic Club </option>
+                        <option value={4}>Sahaya Club</option>  
+                        <option value={5}>Toastmasters Club</option>
+                        <option value={6}>SDG Club</option>
                     </select>
                 </div>
 
